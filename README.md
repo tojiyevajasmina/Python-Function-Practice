@@ -12,7 +12,7 @@
 - 💵 Pul qo‘yish (deposit)
 - 🏧 Pul yechib olish (withdraw)
 - 📊 Hisobdagi balansni ko‘rish
-- ❌ Dasturdan chiqish
+- ❌ 
 
 ---
 
